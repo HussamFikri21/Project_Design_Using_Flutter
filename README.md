@@ -5,7 +5,7 @@
 ![Screenshot_20210706-093024 1](https://user-images.githubusercontent.com/43495147/124559959-f2591980-de44-11eb-9378-b395211754cf.jpg)
 
 
-# gsgproject_1
+# Project_Design_Using_Flutter
 
 A new Flutter project.
 
